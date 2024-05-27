@@ -1,0 +1,7 @@
+gunicorn
+Flask
+torch
+torchvision
+opencv-python
+numpy
+pyttsx3

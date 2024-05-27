@@ -5,3 +5,5 @@ torchvision
 opencv-python
 numpy
 pyttsx3
+pandas
+numpy

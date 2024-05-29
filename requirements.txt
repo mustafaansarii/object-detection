@@ -1,14 +1,14 @@
-aiohttp @ file:///tmp/build/80754af9/aiohttp_1646806365504/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+aiohttp 
+aiosignal 
+alabaster 
 alpha-vantage==2.3.1
-anaconda-client @ file:///tmp/build/80754af9/anaconda-client_1635342557008/work
+anaconda-client 
 anaconda-navigator==2.1.4
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1637161053845/work
-anyio @ file:///tmp/build/80754af9/anyio_1644463572971/work/dist
+anaconda-project
+anyio 
 appdirs==1.4.4
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///tmp/build/80754af9/argon2-cffi-bindings_1644569679365/work
+argon2-cffi
+argon2-cffi-bindings 
 arrow @ file:///opt/conda/conda-bld/arrow_1649166651673/work
 astroid @ file:///tmp/build/80754af9/astroid_1628063140030/work
 astropy @ file:///opt/conda/conda-bld/astropy_1650891077797/work
